@@ -1,4 +1,4 @@
-year,hospital,state,breach_type,location,desc,technical_control,process_control,people_control,insider,third_party,hacking,theft_loss,unintended_disclosure,discover_days,num_patients,cost_free_credit,hipaa,hippa_fee,court_case,court_fee,remediation
+year,hospital,state,breach_type,location,desc,technical_control,process_control,people_control,insider,third_party,hacking,theft_loss,unintended_disclosure,discover_days,num_patients,cost_free_credit,hipaa,hipaa_fee,court_case,court_fee,remediation
 2018,AdventHealth Rollins Brook Hospital,TX,Loss,Paper/Films,Couldn’t find information,0,1,1,1,0,0,1,1,0.0,5000.0,0.0,1.0,0.0,0.0,0.0,1.0
 2011,Adventist Behavioral Health,MD,PHYS,Other,"Altamonte Springs, Fla.-based Adventist Health System/Sunbelt has been 
  slammed by a class action lawsuit for allegedly failing to safeguard the
